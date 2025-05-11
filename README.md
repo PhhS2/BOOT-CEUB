@@ -7,7 +7,7 @@ Estou no primeiro semestre da universidade, cursando Análise de Sistemas.
  Apaixonado por aprender e evoluir no universo DEV!
 
  Tecnologias que estou aprendendo:
-Python 
+Python,
 Banco de Dados: SQL
 
 ---
