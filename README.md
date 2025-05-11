@@ -8,7 +8,7 @@ Estou no primeiro semestre da universidade, cursando Análise de Sistemas.
 
  Tecnologias que estou aprendendo:
 Python 
-Banco de Dados: SQL, 
+Banco de Dados: SQL
 
 ---
 
